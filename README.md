@@ -15,7 +15,7 @@ O JPA é uma API de alto nível que simplifica o processo de persistência de da
 2. Após o deploy bem-sucedido, acesse o seguinte endereço usando um navegador ou uma ferramenta de teste de API, como o Postman: `http://localhost:8080/api/contato`
 3. Realize uma requisição do tipo GET para obter a lista de contatos. Esta etapa deve ser feita para ambos os projetos (JPA e JDBC) para verificar o funcionamento e comparar os resultados.
 
-## Contribuindo
+## Contribuições
 
 Sinta-se à vontade para criar issues, pull requests ou fazer fork do repositório para ajudar a melhorar o projeto.
 
